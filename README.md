@@ -1,1 +1,1 @@
-End-to-end Manual QA testing portfolio for the bstackdemo e-commerce platform. Contains detailed test execution suites, logged bug reports with severity classifications, a Requirements Traceability Matrix (RTM), and exported Jira bug tracking documentation.
+End-to-end Manual QA testing portfolio for the stackdemo e-commerce platform. Contains detailed test execution suites, logged bug reports with severity classifications, a Requirements Traceability Matrix (RTM), and exported Jira bug tracking documentation.
